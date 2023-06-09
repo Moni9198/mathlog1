@@ -1,0 +1,223 @@
+.m-bg-container{
+    background-color: white;
+}
+
+.nav-h {
+    font-size: 10px;
+    font-family: "roboto";
+
+}
+
+.nav-log {
+    height: 50px;
+    width: 50px;
+}
+
+.nav-h1 {
+    text-decoration: underline;
+    text-decoration-color: #F95A36;
+
+}
+
+.nav-contac {
+    background-color: #F64D27;
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-family: "roboto";
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+#nava{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+#nava1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+#nava2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+#nava3{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+#nava4{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+#nava5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.card-h {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    
+}
+.pargraf {
+    text-align: center;
+    color: orange;
+    font-size: 15px;
+    font-weight: bold;
+}
+.pargraf2 {
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.image-path {
+    height: 300px;
+    width: 500px;
+    margin: 10px;
+}
+.bg-container {
+    background-image: url('https://res.cloudinary.com/dxeqrhyds/image/upload/v1685801570/polygon_pattern_vxpha5.png');
+    background-color: #E48563;
+    background-size: cover;
+}
+.image-card {
+    background-color: #e7e4e4;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.image {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+}
+.card-h1{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border-left: 20px;
+    border-radius: 20px;
+}
+.card-button {
+    text-align: right;
+    background-color: #E48563;
+    font-size: 15px;
+    border-radius: 15px;
+}
+#card-h2{
+    text-align: ;
+}
+.container-bg-image {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: #F64D27;
+    margin: 20px;
+
+}
+.container-image {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+.container-image2 {
+    height: 300px;
+    width: 500px;
+}
+.container-bg-h {
+    background-color: #E48563;
+    font-size: 15px;
+    width: 200px;
+}
+.container-p{
+    font-size: 10px;
+}
+
+.buttom-bg-container {
+    background-color: #E48563;
+    height: 200px;
+}
+
+.buttom-image {
+    height: 100px;
+    margin: 20px;
+    width: 300px;
+}
+
+.buttom-heading {
+    color: white;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+.buttom-pargraf {
+    font-size: 10px;
+}
+.container-image2 {
+    height: 500px;
+    width: 300px;
+}
+.icon {
+  color: #d0b200;
+  font-size: 15px;
+}
+.footer-section {
+  background-color: white;
+}
+.footer-section-mail-id {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.footer-section-address {
+  color: black;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: bold;
+}
+.foter-logo {
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+}
+.foter-heading{
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.foter-map-image {
+    height: 200px;
+    padding: 50px;
+    text-align: right;
+}
+.hr{
+    border:  solid black;
+  border-radius: 5px;
+}
+.footer-section-address2 {
+  color: black;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: bold;
+}
+.ul-footer{
+    list-style-type: none;
+    text-align: center;
+}
